@@ -37,8 +37,8 @@ address:
   - line: Panama City Beach, FL
 
 # Credits content
-credits: 'Call or text 850-358-####.'
-credits2: 'You can also <a href="/#contact">Email us</a>!'
+credits: 'Call or Text 850-358-7114'
+credits2: 'You Can Also <a href="/#contact">Email Us</a>'
 # Build settings
 markdown: kramdown
 permalink: pretty
