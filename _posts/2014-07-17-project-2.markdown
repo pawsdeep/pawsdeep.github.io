@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: clock.png
+alt: image-alt
+title: Save Time
+description: We save you time ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+---

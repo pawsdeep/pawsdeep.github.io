@@ -1,0 +1,43 @@
+# Site settings
+title: Paws Deep
+email: your-email@domain.com
+url: https://pawsdeep.github.io
+description: Affordable and Convenient Pet Waste Removal covering Panama City, Lynn Haven and Panama City Beach Florida
+skills: Affordable and Convenient Pet Waste Removal
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: 
+  location: Service Areas
+  social: Around the Web
+  credits: Get a Quote
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/#
+  - title: facebook
+    url: https://www.facebook.com/pages/Paws-Deep/484626665049348
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Panama City, FL
+  - line: Lynn Haven, FL
+  - line: Panama City Beach, FL
+
+# Credits content
+credits: 'Call or text 850-358-####.'
+credits2: 'You can also <a href="/#contact">Email us</a>!'
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: gps.png
+alt: image-alt
+title: Our Service Area
+description: Our service area .... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+---

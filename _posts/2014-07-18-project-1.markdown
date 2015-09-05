@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: wallet.png
+alt: image-alt
+title: Affordable Services
+description: We offer low cost services that ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+---
