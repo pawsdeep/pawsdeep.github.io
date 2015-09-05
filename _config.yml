@@ -1,10 +1,10 @@
 # Site settings
 title: Paws Deep
 email: contact@pawsdeep.com
-url: https://pawsdeep.com
+url: http://pawsdeep.com
 description: Affordable and Convenient Pet Waste Removal covering Panama City, Lynn Haven and Panama City Beach Florida
 skills: Affordable and Convenient Pet Waste Removal
-share_img: https://pawsdeep.com/img/paws-deep.png
+share_img: http://pawsdeep.com/img/paws-deep.png
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
