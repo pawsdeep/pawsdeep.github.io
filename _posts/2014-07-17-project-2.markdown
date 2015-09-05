@@ -5,6 +5,7 @@ date: 2014-07-17
 img: clock.png
 alt: image-alt
 title: Save Time
-description: We save you time ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+description: Skip the hassle of calling to schedule a weekly service. 
+description2: Pay for a full month and your service will automatically be scheduled each week.
 
 ---

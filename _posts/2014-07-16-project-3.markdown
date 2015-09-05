@@ -5,6 +5,6 @@ date: 2014-07-16
 img: gps.png
 alt: image-alt
 title: Our Service Area
-description: Our service area .... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+description: Paws Deeps services Panama City, Lynn Haven, Panama City Beach and surrounding areas.
 
 ---

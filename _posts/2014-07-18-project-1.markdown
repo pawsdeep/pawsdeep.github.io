@@ -5,6 +5,8 @@ date: 2014-07-18
 img: wallet.png
 alt: image-alt
 title: Affordable Services
-description: We offer low cost services that ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+description: We offer low cost services that include pet waste removal and disposal.
+description2: For a small yard with 1 dog price starts at $15 a week for weekly service.
+description3: $3 added per extra dog and $3 - $7 for large yard.
 
 ---
